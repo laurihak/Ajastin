@@ -1,2 +1,3 @@
-# Ajastin
-React applikaatio auton lämmityksen helpottamiseksi.
+Ajastin app created by cra.
+
+Made for easy use of heater in our condo.
